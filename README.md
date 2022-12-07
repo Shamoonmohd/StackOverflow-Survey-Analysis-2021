@@ -58,6 +58,9 @@ The StackOverflow Survey contains responses from 80,000 developers around the wo
          5. Now open the Jupyter Notebook, using command: `$ jupyter notebook "notebook/DS_GA_1007_Final_Project.ipynb"`.
          
    ## 5. Authors
-         * Mohammad Shamoon(ms12737@nyu.edu)
-         * Ronith Murthy(rm5810@nyu.edu)
-
+   * Mohammad Shamoon(ms12737@nyu.edu)
+   * Ronith Murthy(rm5810@nyu.edu)
+   
+   ## 6. Under the Guidance
+   * **Professor Jeremy Curuksu**
+ 
