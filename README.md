@@ -50,10 +50,14 @@ The StackOverflow Survey contains responses from 80,000 developers around the wo
         4. Numpy 1.21.6
         5. Matplotlib 3.3.2
         6. Jupyter notebook 2.0.3
-   ## 4. Deployment--
+   ## 4. Deployment
          1. Install the dependencies required for the Notebook.
          2. Clone the git repository, using command: `$ git clone https://github.com/Shamoonmohd/StackOverflow-Survey-Analysis-2021.git`.
          3. Unzip the dataset `dataset/stack-overflow-developer-survey-2021.zip`.
          4. Go to the StackOverflow-Survey-Analysis-2021 directory.
          5. Now open the Jupyter Notebook, using command: `$ jupyter notebook "notebook/DS_GA_1007_Final_Project.ipynb"`.
+         
+   ## 5. Authors
+         * Mohammad Shamoon(ms12737@nyu.edu)
+         * Ronith Murthy(rm5810@nyu.edu)
 
